@@ -1,0 +1,23 @@
+# maven
+target/
+
+# java
+*.class
+*.log
+hs_err_pid*
+
+# intellij idea
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# vs code
+.classpath
+.project
+.settings/
+.vscode/
+
+# macOS
+.DS_Store
